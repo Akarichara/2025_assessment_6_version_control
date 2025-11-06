@@ -9,3 +9,4 @@
 ### Added
 
 - Initial commit
+[CHANGED] Removed unintended "XXXXXXX" in data/a1986777.txt (see #119).
