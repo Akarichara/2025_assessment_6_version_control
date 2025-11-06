@@ -10,3 +10,4 @@
 
 - Initial commit
 [CHANGED] Removed unintended "XXXXXXX" in data/a1986777.txt (see #119).
+[CHANGED] Normalized unintended uppercase (SITUATION → situation) in data/a1986777.txt (see #120).
